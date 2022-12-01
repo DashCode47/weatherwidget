@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+.container{
+    margin: 10px 0;
+}
+
+.input{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 18px;
+    border: 0;
+    border-radius: 3px;
+}
+.h2{
+    font-family: 'Anton';
+    font-size: 35px;
+}
+.logo{
+    height: 60px;
+    padding-bottom: 10px;
+}
+.titleContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
