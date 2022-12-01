@@ -25,6 +25,7 @@ const WeatherForm = ({ onChangecity }) => {
         onChange={onChange}
         className={styles.input}
         value={city}
+        placeholder="Ingrese una ciudad"
       />
     </form>
   );
