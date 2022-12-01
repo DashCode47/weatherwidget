@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-[live demo link](https://weather-kruger.netlify.app)
+[live demo link](https://kruger-weather.netlify.app)
 
 ## Run it locally
 

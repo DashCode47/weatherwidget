@@ -25,7 +25,7 @@ const WeatherMainInfo = ({ weather }) => {
             {weather?.current?.condition?.text}
           </div>
           {weather?.current?.temp_c && (
-            <div className={styles.current}>{weather?.current?.temp_c}C</div>
+            <div className={styles.current}>{weather?.current?.temp_c}°C</div>
           )}
         </div>
         {!weather?.location?.lon && (
@@ -40,7 +40,7 @@ const WeatherMainInfo = ({ weather }) => {
             title="mapa"
             src={`https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d123192.69976337068!2d${weather?.location?.lon}2!3d${weather?.location?.lat}8!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sru!4v1669887075354!5m2!1ses-419!2sru`}
             width="100%"
-            height="450"
+            height="250"
             style={{ border: 0 }}
             allowfullscreen=""
             loading="lazy"

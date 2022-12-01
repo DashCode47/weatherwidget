@@ -3,9 +3,9 @@
     padding: 40px;
     border-radius: 5px;
     box-sizing: border-box;
-    -webkit-box-shadow: 28px -10px 13px -1px rgba(16, 195, 53, 0.2);
--moz-box-shadow: 28px -10px 13px -1px rgba(16, 195, 53, 0.2);
-box-shadow: 28px -10px 13px -1px rgba(16, 195, 53, 0.2);
+    box-shadow: .5rem .5rem 1rem rgb(172, 28, 28),
+    -.5rem -.5rem 1rem rgb(105, 156, 158);
+    
 }
 
 .city{
@@ -31,4 +31,5 @@ box-shadow: 28px -10px 13px -1px rgba(16, 195, 53, 0.2);
 .current{
     font-size: 38px;
     font-weight: bold;
+    text-align: center;
 }
