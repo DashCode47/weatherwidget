@@ -33,8 +33,8 @@
 
 - GitHub: [@DashCode47](https://github.com/DashCode47)
 - Twitter: [@Dash47](https://twitter.com/dash47)
-- LinkedIn: [Juan Sebastian Sotomayor](https://linkedin.com/in/david-lozada47)
-  px"
+- LinkedIn: [David lozada](https://linkedin.com/in/david-lozada47)
+  
 
 ## 🤝 Contributing
 
